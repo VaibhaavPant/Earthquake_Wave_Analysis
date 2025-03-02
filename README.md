@@ -1,2 +1,1 @@
-# The-Phonebook-Project-using-C-
-This project is based on Phonebook directory
+# Earthquake_Wave_Analysis_using_FFT_algorithm
